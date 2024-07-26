@@ -15,4 +15,4 @@ Customer side:
 3) Customer able to see all property details and owners requirement for property
 4) Customer can see all proposals sent to owner in dashboard
    
-Technologies: SpringBoot, Java, Spring Security, JSP, JavaScript, MVC Architechture
+Technologies: SpringBoot, Java, Spring Security, JSP, JavaScript, MVC Architechture, Maven build tool
