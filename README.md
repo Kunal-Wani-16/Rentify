@@ -2,6 +2,7 @@ Rentify (Backend: SpringBoot Framework)
 
 It is a web based house renting and listing system in which there are two types of login i.e. Owner and Customer
 Features
+
 Owner side:
 1) Owner can list their properties
 2) Owner can update property details
