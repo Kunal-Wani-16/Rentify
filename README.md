@@ -1,5 +1,8 @@
 Rentify (Backend: SpringBoot Framework)
 
+Developed a comprehensive backend system using Spring Boot to facilitate property management, booking, buying, 
+and listing functionalities. Implemented user-friendly features for property owners and users to interact seamlessly.
+
 It is a web based house renting and listing system in which there are two types of login i.e. Owner and Customer
 Features
 
